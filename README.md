@@ -1,9 +1,5 @@
 # Snakes-Website-Cloner
-Here’s a detailed README file for your Chrome extension, which you can use to guide users on how to install, use, and contribute to the project.
 
-### **README.md**
-
-```markdown
 # Website Downloader Chrome Extension
 
 Website Downloader is a simple Chrome extension that allows users to download the current webpage as an HTML file. This extension captures the HTML structure of the page and saves it locally, making it easy to keep offline copies of web content.
@@ -21,6 +17,7 @@ Website Downloader is a simple Chrome extension that allows users to download th
    ```bash
    git clone https://github.com/your-username/website-downloader-extension.git
    ```
+
 
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 
