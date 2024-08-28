@@ -84,12 +84,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 
 ## Contact
 
-For any questions or feedback, please open an issue on GitHub or contact the project maintainer at your-email@example.com.
+For any questions or feedback, please open an issue on GitHub or contact the project maintainer at SnakesNnetworks@gmail.com.
 ```
-
-### **Instructions for Adding README to Your Project:**
-1. Save the above content as `README.md` in your project folder.
-2. Customize sections like **Installation**, **Contributing**, and **Contact** with your details (e.g., GitHub link, email address).
-3. Add the README to your GitHub repository or local project directory for easy reference.
-
-Let me know if you need any further adjustments or additional content for your README!
